@@ -1,5 +1,5 @@
 # RagChatBot
----
+
 # 💡 WhatsApp AI Agent SaaS Platform RAG Chatbot
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system using **LlamaIndex** to build a query engine over internal project documentation. The RAG system is designed to power an AI Agent SaaS platform targeting Small to Medium Businesses (SMBs) for automating lead conversion, onboarding, and helpdesk functions via WhatsApp.
@@ -42,5 +42,5 @@ Ensure you have the following installed:
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd <your-repo-name>
+git clone https://github.com/Ujjawal-Singh/RagChatBot2
+cd RagChatBot2
